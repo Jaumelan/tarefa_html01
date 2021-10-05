@@ -44,3 +44,9 @@ Exemplos:
 **10. Para que serve o atributo 'lang' colocado no elemento 'html'? Altera o comportamento da página ao abri-la? Explique**
 O atributo global 'lang' declara o idioma do conteúdo do site Web, ajuda os buscadores e navegadores. Em acessibilidade, para os leitores de páginas, indica a linguagem em que será lido o site.
 Ele não altera o comportamento da página ao abri-la.
+
+**Referências:**
+1. https://html.spec.whatwg.org/multipage/
+2. https://allthetags.com/
+3. https://seekbrevity.com/semantic-markup-important-web-design/
+4. https://www.w3schools.com/html/html_charset.asp
