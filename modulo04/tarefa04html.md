@@ -33,7 +33,7 @@ charset="UTF-8".
 **Qual a importância da programação HTML considerando-se a semântica nos arquivos criados? Dê 4 exemplos de elementos HTML que servem para definição de semântica.**
 O HTML foi desenhado para ser uma linguagem para descrever textos científicos de forma semântica. Devido a que cada elemento em HTML tem sua semântica isso ajuda na acessibilidade do seu conteúdo para pessoas com necessidades especiais. Ao usar os elementos para seus dados propósitos, facilita tanto aos computadores como às pessoas entendê-los.
 
-![Importancia da semântica](semantics.jpg)["Semântica no HTML"]
+![Importancia da semântica] (semantics.jpg)
 
 Exemplos:
 1. ```<h1></h1>```: Título de maior importância na seção;
