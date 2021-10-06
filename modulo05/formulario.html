@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="utf-8">
+        <title>Formulário</title>
+    </head>
+    <body>
+        <form>
+            <ul>
+                <li>
+                    <label for="name">Nome:</label>
+                    <input type="text" id="name" name="user_name">
+                </li>
+                <li>
+                    <label for="mail">E-mail</label>
+                    <input type="email" id="mail" name="user_email">
+                </li>
+                <li>
+                    <label for="msg">Mensagem</label>
+                    <textarea id="msg" name="user_message">Escreva sua mensagem</textarea>
+                </li>
+                <li class="button">
+                    <button type="submit">Enviar</button>
+                </li>
+            </ul>
+        </form>
+    <br>
+        <form>
+            <p>Escolha sua mascote preferida</p>
+            <div>
+                <input type="radio" id="opcao1" name="mascote" value="cachorro">
+                <label for="opcao1">cachorro</label>
+                <input type="radio" id="opcao2" name="mascote" value="gato">
+                <label for="opcao2">Gato</label>
+                <input type="radio" id="opcao3" name="mascote" value="hamster">
+                <label for="opcao3">Hámster</label>
+            </div>
+            <div>
+                <button type="submit">Enviar</button>
+            </div>
+        </form>
+    </body>
+</html>
