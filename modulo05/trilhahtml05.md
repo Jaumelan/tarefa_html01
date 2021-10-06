@@ -11,15 +11,15 @@ Cada elemento HTML pertence alguma ou algumas categorias de conteúdo. O ```<div
         ```<p>Escolha sua mascote preferida</p>```\
             ```<div>```\
                 ```<input  type="radio"  id="opcao1"  name="mascote"  value="cachorro">```\
-                ```<label  for="opcao1">cachorro</label>```
-                ```<input  type="radio"  id="opcao2"  name="mascote"  value="gato">```
-                ```<label  for="opcao2">Gato</label>```
-                ```<input  type="radio"  id="opcao3"  name="mascote" value="hamster">```
-                ```<label  for="opcao3">Hámster</label>```
-            ```</div>```
-            ```<div>```
-                ```<button  type="submit">Enviar</button>```
-            ```</div>```
+                ```<label  for="opcao1">cachorro</label>```\
+                ```<input  type="radio"  id="opcao2"  name="mascote"  value="gato">```\
+                ```<label  for="opcao2">Gato</label>```\
+                ```<input  type="radio"  id="opcao3"  name="mascote" value="hamster">```\
+                ```<label  for="opcao3">Hámster</label>```\
+            ```</div>```\
+            ```<div>```\
+                ```<button  type="submit">Enviar</button>```\
+            ```</div>```\
     ```</form>``` 
 
 ### Por que não se aconselha o uso indiscriminado de elementos ‘div’? Explique quais seriam as alternativas para reduzir o uso destes elementos.
