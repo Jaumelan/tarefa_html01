@@ -7,10 +7,10 @@ Cada elemento HTML pertence alguma ou algumas categorias de conteúdo. O ```<div
 
 ### Elabore um formulário com o uso do elemento ‘label’ que seja ‘clicável’ para o controle de elemento de entrada do tipo ‘radio button’, isto é, ao clicar no ‘label’ o ‘radio button’ também é selecionado.
 
-```<form>```
-        ```<p>Escolha sua mascote preferida</p>```
-            ```<div>```
-                ```<input  type="radio"  id="opcao1"  name="mascote"  value="cachorro">```
+```<form>```\
+        ```<p>Escolha sua mascote preferida</p>```\
+            ```<div>```\
+                ```<input  type="radio"  id="opcao1"  name="mascote"  value="cachorro">```\
                 ```<label  for="opcao1">cachorro</label>```
                 ```<input  type="radio"  id="opcao2"  name="mascote"  value="gato">```
                 ```<label  for="opcao2">Gato</label>```
